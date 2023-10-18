@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Integrated Model</title>
+</head>
+<body>
+    <div class="model">
+        <div class="core-decision">
+            Core Decision-Making Process
+        </div>
+        <div class="individual-factors">
+            Individual Factors
+            <ul>
+                <li>Personality Traits</li>
+                <li>Emotional Regulation</li>
+                <li>Coping Mechanisms</li>
+                <li>Moral Values</li>
+                <li>Perceived Control</li>
+            </ul>
+        </div>
+        <div class="situational-factors">
+            Situational Factors
+            <ul>
+                <li>Severity of the Offense</li>
+                <li>Perceived Injustice</li>
+                <li>Consequences</li>
+                <li>Social Support</li>
+                <li>Cultural Norms</li>
+            </ul>
+        </div>
+        <div class="societal-contextual">
+            Societal & Contextual Factors
+            <ul>
+                <li>Power Dynamics</li>
+                <li>Legal Framework</li>
+                <li>Economic Status</li>
+                <li>Education & Awareness</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
